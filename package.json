@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/adamfredie/projekt_1#readme",
   "dependencies": {
+    "ejs": "^2.3.3",
     "express": "^4.13.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.6.1"
   }
 }
