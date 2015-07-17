@@ -1,0 +1,22 @@
+{
+  "name": "project-one",
+  "version": "1.0.0",
+  "description": "Projekt One ===========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamfredie/projekt_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamfredie/projekt_1/issues"
+  },
+  "homepage": "https://github.com/adamfredie/projekt_1#readme",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
