@@ -1,0 +1,48 @@
+* 
+  {
+   
+  box-sizing:border-box;
+  -moz-box-sizing:border-box;
+  -webkit-box-sizing:border-box;
+}
+
+body {
+	position:relative;
+}
+
+div.box {
+	/*height:200px;*/
+	width:600px;
+	background:#F7F7F7;
+	padding: 20px;
+	display: block;
+}
+
+input {
+	color:;
+	padding::;em;
+	display:block;
+}
+
+input.submit {
+	width:100%;
+	border-style: none;
+	background-color:brown;
+}
+
+::-webkit-input-placeholder {
+	padding:0;
+}
+
+label {
+	cursor: default;
+	border: none;
+	color:teal;
+	font-family: helvetica;
+	font-size: 1.2em;
+}
+
+textarea.textarea {
+	height:10em;
+	display: block;
+}
