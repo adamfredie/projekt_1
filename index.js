@@ -25,9 +25,13 @@ app.get('/about', function(req, res) {
 	res.render('about');
 });
 
+app.get ('/former', function(req, res) {
+	res.render('former');
+});
+
 app.get('/hello/:name', function(req, res) {
 	var name = req.params.name;
 	res.render("hello", {name: name});
 })
 
-app.listen(3000);
+app.listen(5000);
